@@ -1,0 +1,5 @@
+.vscode
+
+# compiled bin
+out/**
+drill
