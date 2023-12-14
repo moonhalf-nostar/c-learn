@@ -4,5 +4,4 @@
 out/**
 
 # ignore drill
-drill
-drill.c
+drill*
