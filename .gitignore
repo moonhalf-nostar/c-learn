@@ -2,4 +2,7 @@
 
 # compiled bin
 out/**
+
+# ignore drill
 drill
+drill.c
